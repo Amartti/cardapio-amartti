@@ -1,0 +1,14 @@
+{
+    "name": "amartti-cardapio",
+    "version": "1.0.0",
+    "description": "Cardápio Digital Amartti com integração ao WhatsApp",
+    "scripts": {
+      "start": "react-scripts start",
+      "build": "react-scripts build"
+    },
+    "dependencies": {
+      "react": "^18.2.0",
+      "react-dom": "^18.2.0"
+    }
+  }
+  

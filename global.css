@@ -1,0 +1,9 @@
+body {
+    font-family: 'Arial', sans-serif; /* Define a fonte do texto */
+    background-color: #f8f1eb; /* Define a cor de fundo da página */
+    color: #432818; /* Define a cor do texto */
+    margin: 0;
+    padding: 0;
+    display: flex;
+    justify-content: center; /* Centraliza o conteúdo na tela */
+}
